@@ -8,7 +8,7 @@ Here, I have built and trained various Machine Learning (ML) models which I have
 
 (4) Unsupervised learning: K-Means clustering, Hierarchical clustering, 
 
-(5) Association Rule Learning: Apriori and Ecalt model 
+(5) Association Rule Learning: Apriori and Ecalt models
 
 to solve various business problems and case studies. 
 
