@@ -1,4 +1,4 @@
-Here, I have built and trained various Machine Learning (ML) models which I have learnt from Udemy ML course (Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]). I have written codes on 
+Here, I have built and trained various Machine Learning (ML) models which I have learnt from Udemy ML course (Course name: Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024] Instructors: Kirill Eremenko and Hadelin de Ponteves). I have written codes on 
 
 (1) Data Preprocessing, and used 
 
