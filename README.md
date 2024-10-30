@@ -1,10 +1,10 @@
-Here, I have built and trained various Machine Learning (ML) models which I have learnt from Udemy ML course (Course name: Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024] Instructors: Kirill Eremenko and Hadelin de Ponteves). I have written codes on 
+Here, I have built and trained various Machine Learning (ML) models which I have learnt from Udemy ML course (Course name: Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]. Instructors: Kirill Eremenko and Hadelin de Ponteves). I have written codes on 
 
 (1) Data Preprocessing, and used 
 
-(2) Regression models like Simple linear regression, Multiple linear regression, Polynomial linear regression, Support vector regression, Decision tree regression, and Random forest regression, (Model evaluation: compared these models and shown how to choose the best regression model)
+(2) Regression models: Simple linear regression, Multiple linear regression, Polynomial linear regression, Support vector regression, Decision tree regression, and Random forest regression. I also did Model evaluation and compared these models and shown how to choose the best regression model based on some metrics.
 
-(3) Classification models like Logistic regression, k-nearest neighbors, Support vector machine (SVM), kernel-SVM, Naive Bayes, Decision tree classification, Random forest classification, Classification model selection, Evaluating classification models, 
+(3) Classification models such as Logistic regression, k-nearest neighbors, Support vector machine (SVM), kernel-SVM, Naive Bayes, Decision tree classification, Random forest classification, Classification model selection, Evaluating classification models using some metrics. 
 
 (4) Unsupervised learning: K-Means clustering, Hierarchical clustering, 
 
