@@ -12,7 +12,9 @@ and build and train following ML models on various datasets to solve very intere
 
 (4) **Unsupervised learning**: K-Means clustering, Hierarchical clustering, 
 
-(5) **Association Rule Learning**: Apriori and Eclat models
+(5) **Association Rule Learning**: Apriori and Eclat models, 
+
+(6) **Reinforcement Learning**: Upper Confidence Bound (UCB) and Thompson sampling
 
 to solve various business problems and case studies. 
 
