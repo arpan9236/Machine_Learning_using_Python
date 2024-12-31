@@ -18,4 +18,4 @@ and build and train following ML models on various datasets to solve very intere
 
 to solve various business problems and case studies. 
 
-I have completed the course upto this portion. Currently I am learning the other ML topics and models. I will update the codes for other ML models as I finish learning topics.
+I have completed the course upto this portion. Currently, I am learning Ntural Language Processing (NLP) and other advanced ML models. I will update the codes of these topics as I finish learning. 
