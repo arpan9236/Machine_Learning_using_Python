@@ -14,7 +14,7 @@ and build and train following ML models on various datasets to solve very intere
 
 (5) **Association Rule Learning**: Apriori and Eclat models, 
 
-(6) **Reinforcement Learning**: Upper Confidence Bound (UCB) and Thompson sampling
+(6) **Reinforcement Learning**: Upper Confidence Bound (UCB) and Thompson sampling,
 
 to solve various business problems and case studies. 
 
